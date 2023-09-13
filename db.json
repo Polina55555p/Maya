@@ -1,0 +1,87 @@
+{
+  "products": [
+  {
+      "image": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"],
+      "name": "Трусики",
+      "price": 2100,
+      "article": "T1",
+      "available": true,
+      "category": "Трусики",
+      "description": "Пару красивых предложений несколько преимуществ",
+      "compound": "105% хлопок, 10 % эластан",
+      "size": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"],
+      "color": ["Pink", "#FBD05D", "#E9D1C7", "#959FA7", "#2F2233"],
+      "quantity": 1,
+      "crt": {"pink":"#FFE1E3", "yellow":"#FBD05D", "beige":"#E9D1C7", "grey":"#959FA7", "black":"#2F2233"},
+      "sizeSelect": "one size"
+
+      },
+      {
+      "image": ["2.jpg", "6.jpg", "7.jpg", "4.jpg", "8.jpg"],
+      "name": "New collection Fox",
+      "price": 2150,
+      "article": "B1",
+      "available": true,
+      "size": ["xs", "s",  "xl", "xxl", "xxxl"],
+      "category": "Бандажи",
+      "quantity": 1,
+      "sizeSelect": "one size"
+    },
+    {
+      "image": ["7.jpg", "8.jpg", "9.jpg", "10.jpg"],
+      "name": "Tjkmv cjksdbh",
+      "price": 3150,
+      "article": "BB2",
+      "available": true,
+      "size": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"],
+      "category": "Бюстгалтеры",
+      "quantity": 1,
+      "sizeSelect": "one size"
+    },
+    {
+      "image": ["8.jpg", "1.jpg", "2.jpg", "3.jpg"],
+      "name": "Комплект белья",
+      "price": 4200,
+      "article": "O2",
+      "available": false,
+      "size": [ "l", "xl", "xxl", "xxxl"],
+      "category": "Другое",
+      "quantity": 1,
+      "sizeSelect": "one size"
+    },
+    {
+      "image": ["3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+      "name": "Rgfvhdf fjthk ygfm",
+      "price": 5300,
+      "article": "B2",
+      "available": true,
+      "size": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"],
+      "category": "Бандажи",
+      "quantity": 1,
+      "sizeSelect": "one size"
+    },
+    {
+      "image": ["8.jpg", "9.jpg", "5.jpg", "6.jpg"],
+      "name": "Product",
+      "price": 5300,
+      "article": "R2",
+      "available": true,
+      "size": ["xs", "s", "m", "l", "xl", "xxl", "xxxl"],
+      "category": "Бандажи",
+      "quantity": 1,
+      "sizeSelect": "one size"
+    },
+    {
+      "image": ["2.jpg", "1.jpg", "2.jpg", "3.jpg"],
+      "name": "Комплект белья",
+      "price": 1500,
+      "article": "I9",
+      "available": false,
+      "size": [ "l", "xl", "xxl", "xxxl"],
+      "category": "Другое",
+      "quantity": 1,
+      "sizeSelect": "one size"
+    }
+    
+  ]
+}
